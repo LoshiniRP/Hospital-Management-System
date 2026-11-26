@@ -1,14 +1,14 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230155
+# Name: R P Loshini
+# Date: 26.11.2026
 
 
 # AIM:
 To develop the Hospital Management System using Star UML.
 
-# Problem Statement:
+### Problem Statement:
 1.Hospital Management System is needed to streamline and automate various hospital operations that are currently handled manually or with fragmented software, leading to inefficiencies and errors.
 
 2.Managing patient records, appointments, billing, and medical histories manually causes delays, data loss, and poor coordination among departments.
@@ -21,7 +21,6 @@ To develop the Hospital Management System using Star UML.
 
 6.It must ensure secure, role-based access for doctors, nurses, administrative staff, and patients, while maintaining data confidentiality and complying with healthcare regulations.
 
-UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -30,7 +29,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
-# UML use case diagrams are ideal for:
+#### UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
 
@@ -46,7 +45,7 @@ Specifying the context and requirements of a system
 
 
 
-# CLASS DIAGRAM
+### CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -62,7 +61,7 @@ Create detailed charts that…
 
 
 
-# COMMUNICTION DIAGRAM:
+### COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -71,7 +70,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
-# PACKAGE DIAGRAM:
+### PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -86,7 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-# ACTIVITY DIAGRAM:
+### ACTIVITY DIAGRAM:
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -102,14 +101,14 @@ Describe the steps performed in a UML use case.
 
 
 
-# SEQUENCE DIAGRAM
+### SEQUENCE DIAGRAM
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 
-# BENEFITS OF SEQUENCE DIAGRAM
+#### BENEFITS OF SEQUENCE DIAGRAM
 
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
@@ -120,11 +119,25 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+# UML DIAGRAMS
+1. Use Case Diagram <br>
+<img width="1122" height="929" alt="image" src="https://github.com/user-attachments/assets/2a46e667-d9f5-4415-889d-ac164991565d" />
 
+2. Class Diagram <br>
+<img width="1003" height="711" alt="image" src="https://github.com/user-attachments/assets/45e96c01-ac64-4ab6-ba3d-c802402bf8f0" />
 
+3. Activity Diagram <br>
+<img width="657" height="898" alt="image" src="https://github.com/user-attachments/assets/48a6d957-4ab3-4cff-8dfc-dc997846e9de" />
+
+4. Sequence Diagram <br>
+<img width="1188" height="884" alt="image" src="https://github.com/user-attachments/assets/da4a32ae-17f5-411c-b6ff-546c0b86a0e5" />
+
+5. Communication Diagram <br>
+<img width="1082" height="598" alt="image" src="https://github.com/user-attachments/assets/0c2eb412-4337-473c-b6aa-39c282edd970" />
+
+6. Package Diagram <br>
+<img width="1110" height="639" alt="image" src="https://github.com/user-attachments/assets/877300b5-73cb-4382-9eae-da95b60e751e" />
 
 
 # RESULT
-
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
-
