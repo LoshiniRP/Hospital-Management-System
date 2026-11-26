@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No: 212225230155
-# Name: R P Loshini
-# Date: 26.11.2026
+### Reg No: 212225230155
+### Name: R P Loshini
+### Date: 26.11.2026
 
 
 # AIM:
